@@ -2,3 +2,4 @@
 tsconfig.tsbuildinfo
 env.js
 store.js
+node_modules
