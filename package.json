@@ -32,8 +32,8 @@
 	"dependencies": {
 		"@ctx-core/error": "^5.1.71",
 		"@ctx-core/logger": "^3.1.14",
-		"@ctx-core/object": "^8.0.5",
-		"@ctx-core/package": "^3.1.44",
+		"@ctx-core/object": "^8.0.6",
+		"@ctx-core/package": "^3.1.45",
 		"svelte": "^3.20.1"
 	},
 	"devDependencies": {
