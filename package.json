@@ -2,6 +2,7 @@
 	"name": "@ctx-core/env",
 	"version": "8.3.27",
 	"description": "ctx-core env",
+	"type": "module",
 	"main": "env.js",
 	"module": "env.js",
 	"types": "env.ts",
