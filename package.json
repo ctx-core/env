@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/env",
-	"version": "8.3.30",
+	"version": "8.3.31",
 	"description": "ctx-core env",
 	"main": "env.js",
 	"module": "env.js",
@@ -30,10 +30,10 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"@ctx-core/error": "^5.1.79",
-		"@ctx-core/logger": "^3.1.16",
-		"@ctx-core/object": "^8.0.13",
-		"@ctx-core/package": "^3.1.53",
+		"@ctx-core/error": "^5.1.80",
+		"@ctx-core/logger": "^3.1.17",
+		"@ctx-core/object": "^8.0.14",
+		"@ctx-core/package": "^3.1.54",
 		"svelte": "^3.22.3"
 	},
 	"devDependencies": {
