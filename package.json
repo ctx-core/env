@@ -2,9 +2,9 @@
 	"name": "@ctx-core/env",
 	"version": "8.3.41",
 	"description": "ctx-core env",
-	"main": "index.js",
-	"module": "index.js",
-	"types": "index.ts",
+	"main": "./index.js",
+	"module": "./index.js",
+	"types": "./index.ts",
 	"scripts": {
 		"build": "npm run clean && npm run compile",
 		"clean": "rm -f tsconfig.tsbuildinfo",
