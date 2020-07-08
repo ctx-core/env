@@ -1,8 +1,3 @@
-if (typeof window === 'object') {
-	throw 'env cannot be run in browser environments'
-}
-import { verify__version__node } from '@ctx-core/package'
-verify__version__node()
 import { throw__error } from '@ctx-core/error'
 /**
  * Throws an error for for a missing env variable

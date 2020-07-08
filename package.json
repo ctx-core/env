@@ -2,9 +2,9 @@
 	"name": "@ctx-core/env",
 	"version": "8.3.39",
 	"description": "ctx-core env",
-	"main": "env.js",
-	"module": "env.js",
-	"types": "env.ts",
+	"main": "index.js",
+	"module": "index.js",
+	"types": "index.ts",
 	"scripts": {
 		"build": "npm run clean && npm run compile",
 		"clean": "rm -f tsconfig.tsbuildinfo",
@@ -33,7 +33,6 @@
 		"@ctx-core/error": "^5.1.83",
 		"@ctx-core/logger": "^3.1.18",
 		"@ctx-core/object": "^8.1.0",
-		"@ctx-core/package": "^3.1.57",
 		"svelte": "^3.24.0"
 	},
 	"devDependencies": {
