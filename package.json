@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/env",
-	"version": "8.3.52",
+	"version": "8.3.53",
 	"description": "ctx-core env",
 	"main": "./index.js",
 	"module": "./index.js",
@@ -30,9 +30,9 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"@ctx-core/error": "^5.1.96",
+		"@ctx-core/error": "^5.1.97",
 		"@ctx-core/logger": "^3.1.21",
-		"@ctx-core/object": "^9.0.7",
+		"@ctx-core/object": "^9.0.8",
 		"svelte": "^3.24.0"
 	},
 	"devDependencies": {
