@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/env",
-	"version": "8.3.63",
+	"version": "8.3.64",
 	"description": "ctx-core env",
 	"main": "./index.js",
 	"module": "./index.js",
