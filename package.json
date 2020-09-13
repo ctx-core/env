@@ -2,6 +2,20 @@
 	"name": "@ctx-core/env",
 	"version": "8.3.67",
 	"description": "ctx-core env",
+	"keywords": [
+		"ctx-core",
+		"env"
+	],
+	"homepage": "https://github.com/ctx-core/env#readme",
+	"bugs": {
+		"url": "https://github.com/ctx-core/env/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ctx-core/env/issues"
+	},
+	"license": "Apache-2.0",
+	"author": "Brian Takita",
 	"main": "./index.js",
 	"module": "./index.js",
 	"types": "./index.ts",
@@ -9,33 +23,19 @@
 		"build": "npm run clean && npm run compile",
 		"clean": "rm -f tsconfig.tsbuildinfo",
 		"compile": "tsc -b",
-		"prepublishOnly": "npm run compile",
-		"exec": "$@"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/ctx-core/env/issues"
-	},
-	"keywords": [
-		"ctx-core",
-		"env"
-	],
-	"author": "Brian Takita",
-	"license": "Apache-2.0",
-	"bugs": {
-		"url": "https://github.com/ctx-core/env/issues"
-	},
-	"homepage": "https://github.com/ctx-core/env#readme",
-	"publishConfig": {
-		"access": "public"
+		"exec": "$@",
+		"prepublishOnly": "npm run compile"
 	},
 	"dependencies": {
-		"@ctx-core/error": "^5.1.109",
-		"@ctx-core/object": "^10.0.4",
+		"@ctx-core/error": "workspace:*",
+		"@ctx-core/object": "workspace:*",
 		"svelte": "^3.25.0"
 	},
 	"devDependencies": {
 		"typescript": "^4.0.2"
+	},
+	"publishConfig": {
+		"access": "public"
 	},
 	"gitHead": "8d0b8bbecda458306f294e0a6e2df87999315099"
 }
