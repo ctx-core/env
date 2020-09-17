@@ -1,6 +1,17 @@
 # @ctx-core/env
 
+## 8.4.1
+
+### Patch Changes
+
+- fix: npm run compile: path to tsc
+- Updated dependencies [undefined]
+  - @ctx-core/error@6.0.1
+  - @ctx-core/function@15.0.1
+  - @ctx-core/object@11.0.1
+
 ## 8.4.0
+
 ### Minor Changes
 
 - Single underscore forward naming
