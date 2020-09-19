@@ -1,15 +1,19 @@
-import { writable, derived } from 'svelte/store'
+import { writable, derived, Writable } from 'svelte/store'
 import { _b } from '@ctx-core/object'
 import { _eql } from '@ctx-core/function'
 export const b__NODE_ENV = _b('__NODE_ENV', ()=>
 	writable(process.env.NODE_ENV))
 export const __NODE_ENV = b__NODE_ENV()
-export const b__CACHE_VERSION = _b('__CACHE_VERSION', ()=>
+export type $CACHE_VERSION_type = false|string
+export type CACHE_VERSION_type = Writable<$CACHE_VERSION_type>
+export const b__CACHE_VERSION = _b<CACHE_VERSION_type>('__CACHE_VERSION', ()=>
 	writable(
 		typeof process === 'object'
-		&& process.env.CACHE_VERSION))
+		&& process.env.CACHE_VERSION) as CACHE_VERSION_type)
 export const __CACHE_VERSION = b__CACHE_VERSION()
-export const b__VERSION = _b('__VERSION', ()=>
+export type $VERSION_type = string|number
+export type VERSION_type = Writable<$VERSION_type>
+export const b__VERSION = _b<VERSION_type>('__VERSION', ()=>
 	writable(
 		(typeof process === 'object' && (
 			process.env.VERSION
