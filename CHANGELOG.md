@@ -1,5 +1,14 @@
 # @ctx-core/env
 
+## 9.0.10
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+- Updated dependencies [undefined]
+  - @ctx-core/object@12.0.9
+  - @ctx-core/error@7.0.9
+
 ## 9.0.9
 
 ### Patch Changes
