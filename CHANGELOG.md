@@ -1,5 +1,11 @@
 # @ctx-core/env
 
+## 9.0.13
+
+### Patch Changes
+
+- svelte: 3.26.0 -> 3.27.0
+
 ## 9.0.12
 
 ### Patch Changes
