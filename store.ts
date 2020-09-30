@@ -1,4 +1,4 @@
-import { writable, derived, Writable } from 'svelte/store'
+import { writable, derived, Writable } from '@ctx-core/store'
 import { _b } from '@ctx-core/object'
 import { _eql } from '@ctx-core/function'
 export const b__NODE_ENV = _b('__NODE_ENV', ()=>
