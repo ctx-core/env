@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/env",
-	"version": "9.0.26",
+	"version": "9.0.27",
 	"description": "ctx-core env",
 	"keywords": [
 		"ctx-core",
@@ -30,8 +30,8 @@
 		"@ctx-core/error": "workspace:^7.0.15",
 		"@ctx-core/function": "workspace:^16.1.2",
 		"@ctx-core/object": "workspace:^13.0.1",
-		"@ctx-core/store": "workspace:^23.0.10",
-		"svelte": "3.29.6"
+		"@ctx-core/store": "workspace:^23.0.11",
+		"svelte": "3.29.7"
 	},
 	"devDependencies": {
 		"typescript": "^4.0.5"
