@@ -1,5 +1,19 @@
 # @ctx-core/env
 
+## 9.1.6
+
+### Patch Changes
+
+- interface instead of type
+- Updated dependencies [undefined]
+- Updated dependencies [undefined]
+- Updated dependencies [undefined]
+- Updated dependencies [undefined]
+  - @ctx-core/object@15.0.4
+  - @ctx-core/function@16.1.5
+  - @ctx-core/error@7.1.6
+  - @ctx-core/store@23.1.8
+
 ## 9.1.5
 
 ### Patch Changes
