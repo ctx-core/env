@@ -10,4 +10,6 @@ heroku: make sure ${env_name} is set using \`heroku config:set\`
 	`.trim()
 	throw_error({ error_message, type: 'missing_env' } as error_ctx_type)
 }
-export const throw__missing__env = throw_missing_env
+export {
+	throw_missing_env as throw__missing__env
+}
