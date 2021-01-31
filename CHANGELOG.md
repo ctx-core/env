@@ -1,5 +1,11 @@
 # @ctx-core/env
 
+## 9.3.15
+
+### Patch Changes
+
+- @ctx-core/store@23.4.5
+
 ## 9.3.14
 
 ### Patch Changes
