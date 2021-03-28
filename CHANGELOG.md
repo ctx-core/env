@@ -1,5 +1,16 @@
 # @ctx-core/env
 
+## 10.0.32
+
+### Patch Changes
+
+- fix: npm run compile: tsc -b .
+- Updated dependencies [undefined]
+  - @ctx-core/error@8.0.19
+  - @ctx-core/function@17.4.2
+  - @ctx-core/object@17.4.1
+  - @ctx-core/store@24.1.14
+
 ## 10.0.31
 
 ### Patch Changes
