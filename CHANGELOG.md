@@ -1,5 +1,13 @@
 # @ctx-core/env
 
+## 10.0.35
+
+### Patch Changes
+
+- "svelte": 3.37.0
+- Updated dependencies [undefined]
+  - @ctx-core/store@24.1.17
+
 ## 10.0.34
 
 ### Patch Changes
