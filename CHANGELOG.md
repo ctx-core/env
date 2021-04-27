@@ -1,5 +1,17 @@
 # @ctx-core/env
 
+## 10.0.57
+
+### Patch Changes
+
+- update dependencies
+
+## 10.0.56
+
+### Patch Changes
+
+- update dependencies
+
 ## 10.0.55
 
 ### Patch Changes
