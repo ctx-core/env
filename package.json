@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/env",
-	"version": "10.0.59",
+	"version": "10.0.60",
 	"description": "ctx-core env",
 	"keywords": [
 		"ctx-core",
@@ -27,9 +27,9 @@
 		"prepublishOnly": "npm run compile"
 	},
 	"dependencies": {
-		"@ctx-core/error": "workspace:^8.0.31",
+		"@ctx-core/error": "workspace:^8.0.32",
 		"@ctx-core/function": "workspace:^17.4.8",
-		"@ctx-core/object": "workspace:^17.5.13",
+		"@ctx-core/object": "workspace:^17.5.14",
 		"@ctx-core/store": "workspace:^24.5.8",
 		"svelte": "3.37.0"
 	},
