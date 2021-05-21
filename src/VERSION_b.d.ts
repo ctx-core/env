@@ -1,9 +1,9 @@
-import { B } from '@ctx-core/object';
-import { Writable } from '@ctx-core/store';
-export declare const VERSION_b: VERSION_b_type;
-export { VERSION_b as b__VERSION };
-export declare type $VERSION_type = string | number;
-export interface VERSION_type extends Writable<$VERSION_type> {
+import { Writable$ } from '@ctx-core/store';
+export interface VERSION_ctx_I {
+    VERSION?: VERSION_T;
 }
-export interface VERSION_b_type extends B<VERSION_type> {
+export declare const VERSION_b: import("@ctx-core/object").Be<VERSION_ctx_I, "VERSION">;
+export { VERSION_b as b__VERSION };
+export declare type $VERSION_T = string;
+export interface VERSION_T extends Writable$<$VERSION_T> {
 }
