@@ -1,10 +1,10 @@
 import { _b } from '@ctx-core/object'
 import { Writable$, writable$ } from '@ctx-core/store'
 const key = 'VERSION'
-export interface VERSION_ctx_I {
+export interface VERSION_Ctx {
 	VERSION?:VERSION_T
 }
-export const VERSION_b = _b<VERSION_ctx_I, typeof key>(key, ()=>
+export const VERSION_b = _b<VERSION_Ctx, typeof key>(key, ()=>
 	writable$(
 		(typeof process === 'object' && (
 			process.env.VERSION

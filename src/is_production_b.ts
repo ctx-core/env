@@ -1,11 +1,11 @@
 import { _b } from '@ctx-core/object'
 import { derived$, Readable$ } from '@ctx-core/store'
-import { NODE_ENV_b, NODE_ENV_ctx_I } from './NODE_ENV_b'
+import { NODE_ENV_b, NODE_ENV_Ctx } from './NODE_ENV_b'
 const key = 'is_production'
-export interface is_production_ctx_I extends NODE_ENV_ctx_I {
+export interface is_production_Ctx extends NODE_ENV_Ctx {
 	is_production?:is_production_T
 }
-export const is_production_b = _b<is_production_ctx_I, typeof key>(key, ctx=>
+export const is_production_b = _b<is_production_Ctx, typeof key>(key, ctx=>
 	derived$(NODE_ENV_b(ctx), NODE_ENV=>
 		NODE_ENV === 'prod' || NODE_ENV === 'production'
 	) as is_production_T
