@@ -6,7 +6,8 @@ import type { env_Ctx } from './env_Ctx'
 const key = 'is_staging'
 export const is_staging_b = _b<env_Ctx, typeof key>(key, ctx=>
 	derived$(
-		NODE_ENV_b(ctx), _eql('staging')
+		NODE_ENV_b(ctx),
+		_eql('staging')
 	) as is_staging_T
 )
 export type $is_staging_T = boolean
