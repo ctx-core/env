@@ -1,5 +1,11 @@
 # @ctx-core/env
 
+## 10.4.2
+
+### Patch Changes
+
+- - env_b_h_b
+
 ## 10.4.1
 
 ### Patch Changes
