@@ -1,5 +1,11 @@
 # @ctx-core/env
 
+## 10.4.4
+
+### Patch Changes
+
+- update dependencies
+
 ## 10.4.3
 
 ### Patch Changes
