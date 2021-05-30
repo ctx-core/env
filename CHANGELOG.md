@@ -1,5 +1,21 @@
 # @ctx-core/env
 
+## 11.0.0
+
+### Major Changes
+
+- \$ suffix for stores
+- \_ suffix for factory functions
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+- Updated dependencies [undefined]
+  - @ctx-core/error@9.0.0
+  - @ctx-core/function@18.0.0
+  - @ctx-core/object@19.0.0
+  - @ctx-core/store@25.0.0
+
 ## 10.4.4
 
 ### Patch Changes
@@ -1014,7 +1030,7 @@
 
 ### Patch Changes
 
-- fix: VERSION_b: inferred type issue
+- fix: VERSION\$\_b: inferred type issue
 
 ## 9.3.0
 
