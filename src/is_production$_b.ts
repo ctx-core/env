@@ -1,9 +1,9 @@
-import { _b } from '@ctx-core/object'
+import { be_ } from '@ctx-core/object'
 import { derived$, Readable$ } from '@ctx-core/store'
 import { NODE_ENV$_b } from './NODE_ENV$_b'
 import type { env_Ctx } from './env_Ctx'
 const key = 'is_production$'
-export const is_production$_b = _b<env_Ctx, typeof key>(key, ctx=>
+export const is_production$_b = be_<env_Ctx, typeof key>(key, ctx=>
 	derived$(NODE_ENV$_b(ctx), NODE_ENV=>
 		NODE_ENV === 'prod' || NODE_ENV === 'production'
 	) as is_production$_T
