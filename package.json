@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/env",
-	"version": "11.0.8",
+	"version": "11.0.9",
 	"description": "ctx-core env",
 	"keywords": [
 		"ctx-core",
@@ -35,7 +35,7 @@
 		"svelte": "3.38.2"
 	},
 	"devDependencies": {
-		"@ctx-core/dev-tools": "workspace:^5.1.0",
+		"@ctx-core/dev-tools": "workspace:^5.1.1",
 		"typescript": "^4.3.2"
 	},
 	"publishConfig": {
