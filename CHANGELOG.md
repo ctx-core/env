@@ -1,5 +1,14 @@
 # @ctx-core/env
 
+## 11.0.11
+
+### Patch Changes
+
+- update dependencies
+- Updated dependencies [undefined]
+  - @ctx-core/error@9.0.1
+  - @ctx-core/store@25.1.6
+
 ## 11.0.10
 
 ### Patch Changes
