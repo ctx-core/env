@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/env",
-	"version": "11.0.11",
+	"version": "11.0.12",
 	"description": "ctx-core env",
 	"keywords": [
 		"ctx-core",
@@ -31,7 +31,7 @@
 		"@ctx-core/error": "workspace:^9.0.1",
 		"@ctx-core/function": "workspace:^18.1.0",
 		"@ctx-core/object": "workspace:^19.0.4",
-		"@ctx-core/store": "workspace:^25.1.6",
+		"@ctx-core/store": "workspace:^25.1.7",
 		"svelte": "3.38.2"
 	},
 	"devDependencies": {
