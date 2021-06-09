@@ -1,5 +1,11 @@
 # @ctx-core/env
 
+## 11.0.20
+
+### Patch Changes
+
+- fix: B: inferred type issue
+
 ## 11.0.19
 
 ### Patch Changes

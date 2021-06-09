@@ -1,8 +1,8 @@
-import { be_ } from '@ctx-core/object'
+import { B, be_ } from '@ctx-core/object'
 import { writable$, Writable$ } from '@ctx-core/store'
 import type { env_Ctx } from './env_Ctx'
 const key = 'NODE_ENV$'
-export const NODE_ENV$_b = be_<env_Ctx, typeof key>(key, ()=>
+export const NODE_ENV$_b:B<env_Ctx, typeof key> = be_(key, ()=>
 	writable$(process.env.NODE_ENV) as NODE_ENV$_T
 )
 export type NODE_ENV_T = string
