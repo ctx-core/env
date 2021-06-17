@@ -1,5 +1,11 @@
 # @ctx-core/env
 
+## 12.0.4
+
+### Patch Changes
+
+- version bump
+
 ## 12.0.3
 
 ### Patch Changes
