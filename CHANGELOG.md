@@ -1,5 +1,11 @@
 # @ctx-core/env
 
+## 12.0.5
+
+### Patch Changes
+
+- fix: is*staging\$\_b: eql* type issue
+
 ## 12.0.4
 
 ### Patch Changes
