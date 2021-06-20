@@ -1,5 +1,16 @@
 # @ctx-core/env
 
+## 12.0.9
+
+### Patch Changes
+
+- "prepare": "npm run clean && npm run compile"
+- Updated dependencies [undefined]
+  - @ctx-core/error@10.0.5
+  - @ctx-core/function@19.1.5
+  - @ctx-core/object@20.0.6
+  - @ctx-core/store@26.0.7
+
 ## 12.0.8
 
 ### Patch Changes
