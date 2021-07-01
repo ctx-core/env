@@ -1,5 +1,16 @@
 # @ctx-core/env
 
+## 12.0.23
+
+### Patch Changes
+
+- typescript: ^4.3.4 -> ^4.3.5
+- Updated dependencies [undefined]
+  - @ctx-core/error@10.1.6
+  - @ctx-core/function@19.1.12
+  - @ctx-core/object@20.2.4
+  - @ctx-core/store@26.0.20
+
 ## 12.0.22
 
 ### Patch Changes
