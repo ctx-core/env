@@ -1,5 +1,11 @@
 # @ctx-core/env
 
+## 13.0.19
+
+### Patch Changes
+
+- fix: \*\_ctx_I.generated
+
 ## 13.0.18
 
 ### Patch Changes
