@@ -1,5 +1,13 @@
 # @ctx-core/env
 
+## 13.0.20
+
+### Patch Changes
+
+- svelte: 3.40.1 -> 3.40.2
+- Updated dependencies [undefined]
+  - @ctx-core/store@27.0.14
+
 ## 13.0.19
 
 ### Patch Changes
