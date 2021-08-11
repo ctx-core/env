@@ -1,5 +1,11 @@
 # @ctx-core/env
 
+## 13.0.26
+
+### Patch Changes
+
+- update dependencies
+
 ## 13.0.25
 
 ### Patch Changes
