@@ -1,5 +1,16 @@
 # @ctx-core/env
 
+## 13.0.45
+
+### Patch Changes
+
+- compile using swc
+- Updated dependencies
+  - @ctx-core/error@11.0.18
+  - @ctx-core/function@20.2.3
+  - @ctx-core/object@21.0.22
+  - @ctx-core/store@27.0.36
+
 ## 13.0.44
 
 ### Patch Changes
