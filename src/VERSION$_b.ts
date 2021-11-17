@@ -1,6 +1,6 @@
 import { B, be_ } from '@ctx-core/object'
 import { Writable$, writable$ } from '@ctx-core/store'
-import type { env_Ctx } from './env_Ctx'
+import type { env_Ctx } from './env_Ctx.js'
 const key = 'VERSION$'
 export const VERSION$_b:B<env_Ctx, typeof key> = be_(key, ()=>
 	writable$(
