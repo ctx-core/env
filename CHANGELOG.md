@@ -1,5 +1,14 @@
 # @ctx-core/env
 
+## 13.0.54
+
+### Patch Changes
+
+- package.json: - "main": explicitly not support cjs
+- Updated dependencies
+  - @ctx-core/error@11.1.8
+  - @ctx-core/store@27.0.45
+
 ## 13.0.53
 
 ### Patch Changes
