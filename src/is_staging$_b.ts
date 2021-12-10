@@ -1,10 +1,9 @@
 import { eql_ } from '@ctx-core/function'
 import { B, be_ } from '@ctx-core/object'
 import { derived$, Readable$ } from '@ctx-core/store'
-import type { env_Ctx } from './env_Ctx.js'
 import { NODE_ENV$_b } from './NODE_ENV$_b.js'
 const key = 'is_staging$'
-export const is_staging$_b:B<env_Ctx, typeof key> = be_(key, ctx=>
+export const is_staging$_b:B<is_staging$_T> = be_(key, ctx=>
 	derived$(
 		NODE_ENV$_b(ctx),
 		eql_(['staging'])
