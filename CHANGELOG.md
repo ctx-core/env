@@ -1,5 +1,16 @@
 # @ctx-core/env
 
+## 14.0.2
+
+### Patch Changes
+
+- package.json: svelte: ./dist/index.js
+- Updated dependencies
+  - @ctx-core/error@11.1.10
+  - @ctx-core/function@20.2.13
+  - @ctx-core/object@22.0.1
+  - @ctx-core/store@27.0.48
+
 ## 14.0.1
 
 ### Patch Changes
