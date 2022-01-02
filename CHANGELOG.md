@@ -1,5 +1,21 @@
 # @ctx-core/env
 
+## 15.0.7
+
+### Patch Changes
+
+- .js + .d.ts instead of .ts
+- Updated dependencies
+  - @ctx-core/error@11.1.18
+  - @ctx-core/function@20.2.21
+  - @ctx-core/nanostores@0.3.1
+
+## 15.0.6
+
+### Patch Changes
+
+- .js + .d.ts instead of .ts
+
 ## 15.0.5
 
 ### Patch Changes
