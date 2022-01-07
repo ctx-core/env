@@ -1,5 +1,17 @@
 # @ctx-core/env
 
+## 15.0.9
+
+### Patch Changes
+
+- uvu: ^0.5.2 -> ^0.5.3
+- svelte: ^3.44.3 -> ^3.45.0
+- Updated dependencies
+  - @ctx-core/error@11.1.22
+  - @ctx-core/function@20.2.24
+  - @ctx-core/nanostores@0.3.3
+  - @ctx-core/object@22.0.11
+
 ## 15.0.8
 
 ### Patch Changes
