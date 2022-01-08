@@ -1,5 +1,16 @@
 # @ctx-core/env
 
+## 15.0.10
+
+### Patch Changes
+
+- sideEffects = false
+- Updated dependencies
+  - @ctx-core/error@11.1.23
+  - @ctx-core/function@20.2.25
+  - @ctx-core/nanostores@0.3.4
+  - @ctx-core/object@22.0.12
+
 ## 15.0.9
 
 ### Patch Changes
