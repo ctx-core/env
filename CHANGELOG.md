@@ -1,5 +1,11 @@
 # @ctx-core/env
 
+## 15.0.19
+
+### Patch Changes
+
+- update dependencies
+
 ## 15.0.18
 
 ### Patch Changes
