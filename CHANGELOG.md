@@ -1,5 +1,14 @@
 # @ctx-core/env
 
+## 16.0.13
+
+### Patch Changes
+
+- update dependencies
+- Updated dependencies
+  - @ctx-core/error@11.4.1
+  - @ctx-core/object@22.1.3
+
 ## 16.0.12
 
 ### Patch Changes
