@@ -1,5 +1,13 @@
 # @ctx-core/env
 
+## 16.0.14
+
+### Patch Changes
+
+- svelte: ^3.46.6 -> ^3.47.0
+- Updated dependencies
+  - @ctx-core/nanostores@1.0.9
+
 ## 16.0.13
 
 ### Patch Changes
