@@ -1,5 +1,16 @@
 # @ctx-core/env
 
+## 16.0.16
+
+### Patch Changes
+
+- package.json: exports: update
+- Updated dependencies
+  - @ctx-core/error@11.4.2
+  - @ctx-core/function@20.6.1
+  - @ctx-core/nanostores@1.0.11
+  - @ctx-core/object@22.1.4
+
 ## 16.0.15
 
 ### Patch Changes
