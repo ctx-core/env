@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/env",
-	"version": "16.0.21",
+	"version": "16.0.22",
 	"description": "ctx-core env",
 	"keywords": [
 		"ctx-core",
@@ -36,7 +36,7 @@
 		"@ctx-core/function": "^20.7.1",
 		"@ctx-core/nanostores": "^1.0.16",
 		"@ctx-core/object": "^22.1.9",
-		"svelte": "^3.47.0"
+		"svelte": "^3.48.0"
 	},
 	"devDependencies": {
 		"c8": "^7.11.2",
