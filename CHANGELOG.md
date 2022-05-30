@@ -1,5 +1,11 @@
 # @ctx-core/env
 
+## 16.0.30
+
+### Patch Changes
+
+- @ctx-core/nanostores: 1.3.0
+
 ## 16.0.29
 
 ### Patch Changes
