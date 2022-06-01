@@ -1,5 +1,11 @@
 # @ctx-core/env
 
+## 16.1.1
+
+### Patch Changes
+
+- update dependencies
+
 ## 16.1.0
 
 ### Minor Changes
