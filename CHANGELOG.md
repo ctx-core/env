@@ -1,5 +1,23 @@
 # @ctx-core/env
 
+## 16.1.8
+
+### Patch Changes
+
+- @ctx-core/function: 21.0.0
+- Updated dependencies
+  - @ctx-core/nanostores@1.4.10
+  - @ctx-core/object@22.2.6
+
+## 16.1.7
+
+### Patch Changes
+
+- Updated dependencies
+  - @ctx-core/function@21.0.0
+  - @ctx-core/nanostores@1.4.9
+  - @ctx-core/object@22.2.5
+
 ## 16.1.6
 
 ### Patch Changes
