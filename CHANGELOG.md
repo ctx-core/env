@@ -1,5 +1,16 @@
 # @ctx-core/env
 
+## 16.1.9
+
+### Patch Changes
+
+- tsx: ^3.8.2 -> ^3.9.0
+- Updated dependencies
+  - @ctx-core/error@11.5.1
+  - @ctx-core/function@21.0.1
+  - @ctx-core/nanostores@1.4.11
+  - @ctx-core/object@22.2.7
+
 ## 16.1.8
 
 ### Patch Changes
