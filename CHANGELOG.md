@@ -1,5 +1,11 @@
 # @ctx-core/env
 
+## 16.1.17
+
+### Patch Changes
+
+- svelte: ^3.51.0 -> ^3.52.0
+
 ## 16.1.16
 
 ### Patch Changes
