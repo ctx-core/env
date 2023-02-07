@@ -1,4 +1,4 @@
-import { throw_error } from '@ctx-core/error'
+import { error__throw } from '@ctx-core/error'
 /**
  * Throws an error for for a missing env variable
  */
@@ -9,7 +9,7 @@ ${env_name} environment variable not set.
 dev: make sure ${env_name} is set in your .env file
 heroku: make sure ${env_name} is set using \`heroku config:set\`
 	`.trim()
-	throw_error({
+	error__throw({
 		error_message,
 		type: 'missing_env'
 	})
