@@ -1,5 +1,11 @@
 # @ctx-core/env
 
+## 16.4.0
+
+### Minor Changes
+
+- - import*meta_env*: ∋ import_meta_env\_\_ensure
+
 ## 16.3.1
 
 ### Patch Changes

@@ -1,3 +1,6 @@
+export function import_meta_env_() {
+  return import_meta_env__ensure()
+}
 export function import_meta_env__ensure() {
 	if (!import.meta.env) {
 		Object.assign(import.meta, {

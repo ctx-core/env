@@ -1,5 +1,5 @@
 export * from './CACHE_VERSION__'
-export * from './import_meta_env__ensure'
+export * from './import_meta_env'
 export * from './is_development__'
 export * from './is_production__'
 export * from './is_staging__'
