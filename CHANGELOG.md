@@ -1,5 +1,11 @@
 # @ctx-core/env
 
+## 17.1.0
+
+### Minor Changes
+
+- import*meta_env*,import_meta_env\_\_ensure: + generic: <R extends ImportMetaEnv>
+
 ## 17.0.0
 
 ### Major Changes
