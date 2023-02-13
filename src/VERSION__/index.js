@@ -1,6 +1,6 @@
 import { atom_ } from '@ctx-core/nanostores'
 import { be_ } from '@ctx-core/object'
-/** @type {import('VERSION__').VERSION__} */
+/** @type {typeof import('./index.d.ts').VERSION__} */
 export const VERSION__ = be_('VERSION__', ()=>
 	atom_(
 		typeof process === 'object' && (

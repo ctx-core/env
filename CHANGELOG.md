@@ -1,5 +1,11 @@
 # @ctx-core/env
 
+## 16.2.0
+
+### Minor Changes
+
+- extract _.js & _.d.ts into directories
+
 ## 16.1.44
 
 ### Patch Changes
