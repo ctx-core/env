@@ -1,10 +1,16 @@
 # @ctx-core/env
 
+## 16.3.1
+
+### Patch Changes
+
+- import_meta_env\_\_ensure: fix: type
+
 ## 16.3.0
 
 ### Minor Changes
 
-- - + import_meta_env__ensure: add proxy to process.env if import.meta.env is not present
+- - - import_meta_env\_\_ensure: add proxy to process.env if import.meta.env is not present
 
 ## 16.2.0
 
