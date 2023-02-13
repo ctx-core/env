@@ -6,5 +6,5 @@ declare global {
 	}
 }
 interface ImportMetaEnv {
-	[key:string]:any;
+	[key:string]:string
 }

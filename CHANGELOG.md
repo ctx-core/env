@@ -1,5 +1,11 @@
 # @ctx-core/env
 
+## 17.0.0
+
+### Major Changes
+
+- ImportMetaEnv: [key:string]:string
+
 ## 16.4.0
 
 ### Minor Changes
