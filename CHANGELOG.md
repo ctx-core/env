@@ -1,5 +1,11 @@
 # @ctx-core/env
 
+## 16.3.0
+
+### Minor Changes
+
+- - + import_meta_env__ensure: add proxy to process.env if import.meta.env is not present
+
 ## 16.2.0
 
 ### Minor Changes
