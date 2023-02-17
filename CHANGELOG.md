@@ -1,5 +1,11 @@
 # @ctx-core/env
 
+## 17.2.0
+
+### Minor Changes
+
+- - missing_env\_\_throw: aliased by throw_missing_env
+
 ## 17.1.0
 
 ### Minor Changes
