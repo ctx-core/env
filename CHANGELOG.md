@@ -1,5 +1,11 @@
 # @ctx-core/env
 
+## 17.2.18
+
+### Patch Changes
+
+- import*meta_env*() instead of process.env
+
 ## 17.2.17
 
 ### Patch Changes
