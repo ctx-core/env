@@ -1,5 +1,11 @@
 # @ctx-core/env
 
+## 17.2.33
+
+### Patch Changes
+
+- @ctx-core/error: ^11.6.19 -> ^11.6.20
+
 ## 17.2.32
 
 ### Patch Changes
