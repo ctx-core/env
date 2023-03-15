@@ -1,5 +1,17 @@
 # @ctx-core/env
 
+## 17.2.36
+
+### Patch Changes
+
+- dependencies: - svelte
+
+## 17.2.35
+
+### Patch Changes
+
+- svelte: ^3.56.0 -> ^3.57.0
+
 ## 17.2.34
 
 ### Patch Changes
