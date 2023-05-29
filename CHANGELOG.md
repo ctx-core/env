@@ -1,5 +1,14 @@
 # @ctx-core/env
 
+## 17.2.99
+
+### Patch Changes
+
+- @ctx-core/object: ^27.4.26 -> ^27.5.0
+- Updated dependencies
+  - @ctx-core/error@12.3.30
+  - @ctx-core/nanostores@4.0.7
+
 ## 17.2.98
 
 ### Patch Changes
