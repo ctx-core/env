@@ -1,5 +1,11 @@
 # @ctx-core/env
 
+## 17.2.101
+
+### Patch Changes
+
+- @ctx-core/nanostores: ^4.1.0 -> ^4.2.0
+
 ## 17.2.100
 
 ### Patch Changes
