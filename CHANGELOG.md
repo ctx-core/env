@@ -1,5 +1,38 @@
 # @ctx-core/env
 
+## 17.3.0
+
+### Minor Changes
+
+- - is*staging*
+
+  is*staging$*: aliased by is_staging\_\_
+
+- - CACHE*VERSION*
+
+  CACHE*VERSION$*: aliased by CACHE_VERSION\_\_
+
+- - is*production*
+
+  is*production$*: aliased by is_production\_\_
+
+- - NODE*ENV*
+
+  NODE*ENV$*: aliased by NODE_ENV\_\_
+
+- - is*development*
+
+  is*development$*: aliased by is_development\_\_
+
+- - VERSION\_
+
+  VERSION$\_: aliased by VERSION\_\_
+
+### Patch Changes
+
+- Updated dependencies
+  - @ctx-core/object@28.0.5
+
 ## 17.2.128
 
 ### Patch Changes
