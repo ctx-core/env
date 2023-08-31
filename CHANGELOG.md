@@ -1,5 +1,15 @@
 # @ctx-core/env
 
+## 17.3.1
+
+### Patch Changes
+
+- @ctx-core/nanostores: ^6.0.1 -> ^6.0.5
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/error@12.3.40
+  - @ctx-core/nanostores@6.0.6
+
 ## 17.3.0
 
 ### Minor Changes
