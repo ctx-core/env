@@ -1,5 +1,11 @@
 # @ctx-core/env
 
+## 17.3.4
+
+### Patch Changes
+
+- missing_env**throw: fix: ∋ error_o**throw
+
 ## 17.3.3
 
 ### Patch Changes
