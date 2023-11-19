@@ -1,5 +1,13 @@
 # @ctx-core/env
 
+## 17.4.19
+
+### Patch Changes
+
+- fix: be*computed_pair* instances
+- Updated dependencies
+  - @ctx-core/nanostores@9.0.1
+
 ## 17.4.18
 
 ### Patch Changes

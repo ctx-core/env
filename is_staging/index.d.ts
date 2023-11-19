@@ -1,7 +1,9 @@
-import type { ReadableAtom_ } from '@ctx-core/nanostores'
-import type { Be } from '@ctx-core/object'
-export declare const is_staging__:Be<ReadableAtom_<boolean>>
+import type { be_computed_pair_T } from '@ctx-core/nanostores'
+export const [
+	is_staging$_,
+	is_staging_,
+]: be_computed_pair_T<boolean>
 export {
-	is_staging__ as is_staging$_,
-	is_staging__ as b__is__staging,
+	is_staging$_ as is_staging__,
+	is_staging$_ as b__is__staging,
 }
