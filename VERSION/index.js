@@ -9,6 +9,6 @@ export const [
 	typeof process === 'object' && (
 		import_meta_env_().VERSION || import_meta_env_().HEROKU_SLUG_COMMIT
 	)
-	|| Math.random().toString())
-	.config({ id: 'VERSION' })
+	|| Math.random().toString(),
+{ id: 'VERSION' })
 export { VERSION$_ as VERSION__ }
