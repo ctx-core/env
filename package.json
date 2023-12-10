@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/env",
-	"version": "17.4.43",
+	"version": "17.4.44",
 	"description": "ctx-core env",
 	"keywords": [
 		"ctx-core",
@@ -45,10 +45,10 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/error": "^12.4.38",
-		"@ctx-core/function": "^21.23.0",
-		"@ctx-core/nanostores": "^9.0.25",
-		"@ctx-core/object": "^31.1.20"
+		"@ctx-core/error": "^12.4.39",
+		"@ctx-core/function": "^21.23.1",
+		"@ctx-core/nanostores": "^9.0.26",
+		"@ctx-core/object": "^31.1.21"
 	},
 	"devDependencies": {
 		"c8": "^8.0.1",
