@@ -1,5 +1,15 @@
 # @ctx-core/env
 
+## 17.4.61
+
+### Patch Changes
+
+- tsx: ^4.6.2 -> ^4.7.0
+- ctx-core: ^5.0.1 -> ^5.1.0
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/nanostores@10.0.4
+
 ## 17.4.60
 
 ### Patch Changes

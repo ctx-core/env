@@ -1,4 +1,4 @@
-import { error_o__throw } from '@ctx-core/error'
+import { error_o__throw } from 'ctx-core/error'
 /**
  * Throws an error for a missing env variable
  * @param {string}env_name
