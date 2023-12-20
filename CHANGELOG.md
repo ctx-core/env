@@ -1,5 +1,24 @@
 # @ctx-core/env
 
+## 17.5.0
+
+### Minor Changes
+
+- minor:
+
+      exports:
+        + ./fs
+      + is_browser_
+      + is_server_
+      + process_release_name
+
+### Patch Changes
+
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+  - ctx-core@5.3.0
+
 ## 17.4.65
 
 ### Patch Changes
