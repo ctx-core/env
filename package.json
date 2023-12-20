@@ -21,14 +21,14 @@
 		"*.d.ts",
 		"*.js",
 		"*.json",
-		"./CACHE_VERSION",
-		"./import_meta_env",
-		"./is_development",
-		"./is_production",
-		"./is_staging",
-		"./missing_env__throw",
-		"./NODE_ENV",
-		"./VERSION"
+		"../ctx-core/all/CACHE_VERSION",
+		"../ctx-core/all/import_meta_env",
+		"../ctx-core/all/is_development",
+		"../ctx-core/all/is_production",
+		"../ctx-core/all/is_staging",
+		"../ctx-core/all/missing_env__throw",
+		"../ctx-core/all/NODE_ENV",
+		"../ctx-core/all/VERSION"
 	],
 	"types": "./index.d.ts",
 	"exports": {
@@ -45,7 +45,6 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/nanostores": "^10.0.4",
 		"ctx-core": "^5.1.0"
 	},
 	"devDependencies": {
