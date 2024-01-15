@@ -1,5 +1,11 @@
 # @ctx-core/env
 
+## 17.5.23
+
+### Patch Changes
+
+- ctx-core: ^5.18.3 -> ^5.18.4
+
 ## 17.5.22
 
 ### Patch Changes
