@@ -1,5 +1,16 @@
 # @ctx-core/env
 
+## 17.5.42
+
+### Patch Changes
+
+- import_meta_env\_\_ensure: fix: browser error:
+
+      - ∋ Object.assign
+
+- Updated dependencies
+  - ctx-core@5.25.4
+
 ## 17.5.41
 
 ### Patch Changes
