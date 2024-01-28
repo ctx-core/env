@@ -1,5 +1,18 @@
 # @ctx-core/env
 
+## 17.6.0
+
+### Minor Changes
+
+- ImportMeta→import_meta_T
+
+  ImportMetaEnv→import_meta_env_T
+
+### Patch Changes
+
+- Updated dependencies
+  - ctx-core@5.34.0
+
 ## 17.5.55
 
 ### Patch Changes
