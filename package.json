@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/env",
-	"version": "17.5.53",
+	"version": "17.5.54",
 	"description": "ctx-core env",
 	"keywords": [
 		"ctx-core",
@@ -38,7 +38,7 @@
 		"test:unit:coverage": "c8 pnpm test:unit"
 	},
 	"dependencies": {
-		"ctx-core": "^5.32.0"
+		"ctx-core": "^5.32.1"
 	},
 	"devDependencies": {
 		"c8": "^9.1.0",
