@@ -1,5 +1,13 @@
 # @ctx-core/env
 
+## 17.6.39
+
+### Patch Changes
+
+- package.json: author: url,email
+- Updated dependencies
+  - ctx-core@6.6.1
+
 ## 17.6.38
 
 ### Patch Changes
