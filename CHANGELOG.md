@@ -1,5 +1,11 @@
 # @ctx-core/env
 
+## 17.6.86
+
+### Patch Changes
+
+- ctx-core: ^7.2.29 -> ^7.2.30
+
 ## 17.6.85
 
 ### Patch Changes
